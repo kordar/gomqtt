@@ -1,4 +1,4 @@
-module gomqtt
+module github.com/kodar/gomqtt
 
 go 1.16
 
