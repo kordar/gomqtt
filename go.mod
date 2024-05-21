@@ -1,4 +1,4 @@
-module github.com/kodar/gomqtt
+module github.com/kordar/gomqtt
 
 go 1.16
 
